@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS311-ETEEAP-Batch2-2025-Rosales", "CS311-ETEEAP-Batch2-2025-Rosales.csproj", "{3605F002-20D9-47F4-B19B-ACEEE49EC49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3605F002-20D9-47F4-B19B-ACEEE49EC49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3605F002-20D9-47F4-B19B-ACEEE49EC49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3605F002-20D9-47F4-B19B-ACEEE49EC49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3605F002-20D9-47F4-B19B-ACEEE49EC49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92049CAD-7491-4971-918C-40396C88B962}
+	EndGlobalSection
+EndGlobal
